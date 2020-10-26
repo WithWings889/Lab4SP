@@ -1,0 +1,21 @@
+
+$b = 10 + 3;
+0x4fa
+$a = 'c';
+/* fddlkklkl */
+
+if( $a % 2 == 0)
+{
+    $res = "OK";
+}
+//fdkkdfk
+elsee
+{
+    print("ERROR!");
+}
+
+for ($i = 1; $i <= 10; $i++) {
+    echo $i;
+}
+$r = 23.42;
+
